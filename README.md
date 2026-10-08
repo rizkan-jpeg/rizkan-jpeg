@@ -54,10 +54,6 @@ applications — from user research and prototyping to APIs and deployment.
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
 ## Focus Areas
 
 ```mermaid
@@ -81,10 +77,6 @@ graph LR
     style E fill:#0D1117,stroke:#FF6B35,color:#FF6B35
     style I fill:#0D1117,stroke:#00FF00,color:#00FF00
 ```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
 <!-- ## Experience
 
