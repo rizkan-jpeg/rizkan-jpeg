@@ -4,7 +4,7 @@
 
 # Rizkan Aziz
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Software+Engineer+%7C+UI%2FUX+Designer;Full-Stack+Developer;Designing+Experiences%2C+Engineering+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Software+Engineer+%7C+UI%2FUX+Designer;Full-Stack+Developer;Designing+Experiences%2C+Engineering+Solutions)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/rizkan-jpeg/rizkan-jpeg/output/github-snake-dark.svg" alt="snake animation" />
 
