@@ -83,24 +83,46 @@ graph LR
 
 ## Experience
 
-<!-- Ganti dengan pengalaman nyata kamu: magang, freelance, organisasi, lomba, dll. -->
+### 2026
 
-```mermaid
-timeline
-    title Professional Journey
+**Tim Dokumentasi & Video Editor — Lingkaran Kreatif**
+- Melakukan dokumentasi foto dan video selama kegiatan event.
+- Mengambil footage untuk kebutuhan konten dan publikasi media sosial.
+- Melakukan editing video untuk kebutuhan dokumentasi dan promosi.
+- Membuat konten seperti event highlight, POV, dan behind the scenes.
+- Berkoordinasi dengan tim selama proses dokumentasi dan produksi konten.
 
-    2023 : Mulai Belajar Web Development
-         : Eksplorasi UI/UX Design
+**Videografer Freelance — Produksi Konten Pariwisata Aceh**
+- Melakukan pengambilan video untuk kebutuhan konten pariwisata.
+- Mengambil footage di berbagai lokasi wisata di Banda Aceh.
+- Menyesuaikan pengambilan gambar dengan konsep dan kebutuhan konten.
+- Terlibat dalam proses produksi dan penyusunan materi video.
 
-    2024 : Posisi / Proyek Pertama
-         : Nama Organisasi atau Klien
+**Tim Produksi Video / Videografer Freelance — FLS2N**
+- Terlibat dalam produksi video untuk kebutuhan lomba FLS2N.
+- Melakukan pengambilan gambar dan video sesuai konsep.
+- Membantu proses editing dan penyusunan video.
+- Berkoordinasi dengan tim selama proses produksi.
 
-    2025 : Posisi / Proyek Kedua
-         : Nama Organisasi atau Klien
+**Tim Fotografi Produksi — Galeri 88 Solidwood, Banda Aceh**
+- Mendokumentasikan proses pembuatan meja dan produk berbahan kayu.
+- Mengambil foto pada berbagai tahapan proses produksi.
+- Mengatur komposisi dan sudut pengambilan gambar.
+- Menghasilkan materi visual untuk dokumentasi dan publikasi.
 
-    2026 : Software Engineer & UI/UX Designer
-         : Ongoing Projects
-```
+**Student Internship — Kejaksaan Tinggi Aceh**
+- Membantu tugas administrasi dan pengelolaan dokumen.
+- Mengembangkan website surat-menyurat untuk bidang Pengamanan Pembangunan Strategis (PPS).
+- Membantu pengelolaan data dan surat secara digital.
+- Mendukung digitalisasi proses administrasi melalui sistem berbasis website.
+
+## Organizational Experience
+
+**Himpunan Mahasiswa Manajemen Informatika**
+- Ketua Divisi Komunikasi dan Informasi (KOMINFO)
+
+**BEM Fakultas FMIPA**
+- Anggota Divisi Videografi
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
