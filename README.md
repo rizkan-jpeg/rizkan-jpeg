@@ -46,7 +46,7 @@ applications — from user research and prototyping to APIs and deployment.
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=html,css,js,c++,python,php,java,c)](https://skillicons.dev)  
+[![](https://skillicons.dev/icons?i=html,css,js,cpp,python,php,java,c)](https://skillicons.dev)  
 [![](https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,vite)](https://skillicons.dev)  
 [![](https://skillicons.dev/icons?i=nodejs,laravel,fastapi)](https://skillicons.dev)  
 [![](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)  
