@@ -77,8 +77,11 @@ graph LR
     style E fill:#0D1117,stroke:#FF6B35,color:#FF6B35
     style I fill:#0D1117,stroke:#00FF00,color:#00FF00
 ```
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-<!-- ## Experience
+## Experience
 
 <!-- Ganti dengan pengalaman nyata kamu: magang, freelance, organisasi, lomba, dll. -->
 
@@ -97,7 +100,7 @@ timeline
 
     2026 : Software Engineer & UI/UX Designer
          : Ongoing Projects
-```-->
+```
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
